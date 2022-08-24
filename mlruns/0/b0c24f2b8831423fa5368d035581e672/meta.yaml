@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/New%20folder/MLFlows/mlruns/0/b0c24f2b8831423fa5368d035581e672/artifacts
+end_time: 1661332751648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b0c24f2b8831423fa5368d035581e672
+run_uuid: b0c24f2b8831423fa5368d035581e672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661332704305
+status: 3
+tags: []
+user_id: shubhamgupta01
